@@ -1,0 +1,17 @@
+{
+  "updated": "2026-11-07",
+  "summary": [
+    { "label": "累计访问", "value": "12,480", "trend": "+18%" },
+    { "label": "本周访问", "value": "1,206", "trend": "+6%" },
+    { "label": "资料下载", "value": "3,421", "trend": "+11%" },
+    { "label": "Agent 调用", "value": "862", "trend": "+24%" }
+  ],
+  "topPages": [
+    { "title": "2024 级培养方案", "path": "/programs/2024", "views": "2,340", "bar": 92 },
+    { "title": "保研时间线", "path": "/baoyan/timeline", "views": "1,876", "bar": 74 },
+    { "title": "新闻学概论 · 课程资料", "path": "/courses/news-intro", "views": "1,520", "bar": 60 },
+    { "title": "RUC 历年真题", "path": "/baoyan/interview", "views": "1,204", "bar": 47 },
+    { "title": "Agent 3 分钟接入", "path": "/agent/quickstart", "views": "860", "bar": 34 }
+  ],
+  "keywords": ["保研", "培养方案", "新闻价值", "真题", "英语新闻评论", "六级 520"]
+}

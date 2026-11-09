@@ -1,0 +1,892 @@
+{
+  "id": "2023-communication-public-admin",
+  "label": "2023 级 传播学—公共管理 双学士学位",
+  "short": "传播学—公共管理（双学位）",
+  "grade": 2023,
+  "total": 163,
+  "source": "《2023 级本科生培养方案（拔尖创新人才培养方案）》第 262–274 页",
+  "groups": [
+    {
+      "id": "general",
+      "name": "通识模块",
+      "min": 57
+    },
+    {
+      "id": "major",
+      "name": "专业模块",
+      "min": 86
+    },
+    {
+      "id": "innovation",
+      "name": "创新训练与科学研究",
+      "min": 10
+    },
+    {
+      "id": "quality",
+      "name": "素质拓展与发展指导",
+      "min": 10
+    }
+  ],
+  "modules": [
+    {
+      "id": "sz-required",
+      "group": "general",
+      "name": "思想政治理论课（必修）",
+      "min": 19,
+      "kind": "all",
+      "rule": "完成必修模块全部课程。",
+      "courses": [
+        {
+          "name": "思想道德与法治",
+          "credits": 3
+        },
+        {
+          "name": "中国近现代史纲要",
+          "credits": 3
+        },
+        {
+          "name": "马克思主义基本原理",
+          "credits": 3
+        },
+        {
+          "name": "习近平新时代中国特色社会主义思想概论",
+          "credits": 3
+        },
+        {
+          "name": "毛泽东思想和中国特色社会主义理论体系概论",
+          "credits": 3
+        },
+        {
+          "name": "形势与政策",
+          "credits": 2
+        },
+        {
+          "name": "思政实践课",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "sz-elective",
+      "group": "general",
+      "name": "思想政治理论课（选修）",
+      "min": 2,
+      "kind": "choose",
+      "choose": 1,
+      "rule": "在选修模块中选修 1 门课程（2 学分）。",
+      "courses": [
+        {
+          "name": "习近平经济思想概论",
+          "credits": 2
+        },
+        {
+          "name": "习近平法治思想概论",
+          "credits": 2
+        },
+        {
+          "name": "习近平生态文明思想概论",
+          "credits": 2
+        },
+        {
+          "name": "习近平强军思想概论",
+          "credits": 2
+        },
+        {
+          "name": "习近平外交思想概论",
+          "credits": 2
+        },
+        {
+          "name": "习近平教育重要论述概论",
+          "credits": 2
+        },
+        {
+          "name": "社会主义发展史专题",
+          "credits": 2
+        },
+        {
+          "name": "中国共产党历史专题",
+          "credits": 2
+        },
+        {
+          "name": "中华优秀传统文化概论",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "foreign",
+      "group": "general",
+      "name": "公共外语",
+      "min": 6,
+      "kind": "all",
+      "rule": "普通班：完成对应级别必修课 4 学分，并在拓展类（技能/文化/文学）选修 2 学分。",
+      "courses": [
+        {
+          "name": "大学英语综合A",
+          "credits": 2
+        },
+        {
+          "name": "大学英语综合B",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "拓展类课程（技能/文化/文学）",
+          "credits": 2
+        },
+        {
+          "name": "英语演讲",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "math",
+      "group": "general",
+      "name": "公共数学（C 级）",
+      "min": 12,
+      "kind": "all",
+      "rule": "完成 C 级别全部课程。",
+      "courses": [
+        {
+          "name": "微积分CⅠ",
+          "credits": 3
+        },
+        {
+          "name": "微积分CⅡ",
+          "credits": 3
+        },
+        {
+          "name": "线性代数C",
+          "credits": 3
+        },
+        {
+          "name": "概率论与数理统计C",
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "group": "general",
+      "name": "数据与信息技术平台课",
+      "min": 4,
+      "kind": "all",
+      "rule": "完成《数据与信息技术基础》2 学分，并在应用类课程中选修 2 学分。",
+      "courses": [
+        {
+          "name": "数据与信息技术基础",
+          "credits": 2
+        },
+        {
+          "name": "C程序设计",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "Python程序设计",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "数据管理与数据挖掘",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "调查大数据的深度分析",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "经济管理数据的智能分析与应用",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "人工智能与机器学习",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "多媒体应用实践",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "网页设计与编程",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "移动App开发",
+          "credits": 2,
+          "req": false
+        },
+        {
+          "name": "信息技术应用实践班",
+          "credits": 2,
+          "req": false
+        }
+      ]
+    },
+    {
+      "id": "pe",
+      "group": "general",
+      "name": "公共体育",
+      "min": 4,
+      "kind": "all",
+      "rule": "完成《太极拳》《游泳》2 学分，并在专项基础课中选修 2 学分。",
+      "courses": [
+        {
+          "name": "太极拳",
+          "credits": 1
+        },
+        {
+          "name": "游泳",
+          "credits": 1
+        },
+        {
+          "name": "田径",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "体质健康",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "健美操",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "啦啦操",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "瑜伽",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "体育舞蹈",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "健美",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "中华韵",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "养生",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "太极剑",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "篮球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "足球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "排球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "乒乓球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "网球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "羽毛球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "高尔夫",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "棒垒球",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "散打",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "跆拳道",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "拓展训练",
+          "credits": 1,
+          "req": false
+        },
+        {
+          "name": "篮球裁判",
+          "credits": 1,
+          "req": false
+        }
+      ]
+    },
+    {
+      "id": "general-edu",
+      "group": "general",
+      "name": "通识课程群",
+      "min": 8,
+      "kind": "free",
+      "rule": "通识课 4 学分；新生研讨课 1 学分；心理健康 1 学分；公共艺术 2 学分。",
+      "courses": [
+        {
+          "name": "新生研讨课",
+          "credits": 1
+        },
+        {
+          "name": "大学生心理健康",
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "id": "summer",
+      "group": "general",
+      "name": "国际暑期学校全英文课",
+      "min": 2,
+      "kind": "free",
+      "rule": "选修 2 学分课程。",
+      "courses": [
+        {
+          "name": "包容性全球发展",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "foundation",
+      "group": "major",
+      "name": "学科基础课",
+      "min": 20,
+      "kind": "all",
+      "rule": "完成学科基础课所有课程。",
+      "courses": [
+        {
+          "name": "公共管理学A",
+          "credits": 3
+        },
+        {
+          "name": "公共政策概论",
+          "credits": 2
+        },
+        {
+          "name": "行政法",
+          "credits": 2
+        },
+        {
+          "name": "政治学原理",
+          "credits": 2
+        },
+        {
+          "name": "传播学概论",
+          "credits": 3
+        },
+        {
+          "name": "舆论学概论",
+          "credits": 2
+        },
+        {
+          "name": "文明交流与国际传播",
+          "credits": 2
+        },
+        {
+          "name": "新闻理论",
+          "credits": 2
+        },
+        {
+          "name": "新闻实务基础",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "group": "major",
+      "name": "专业核心课",
+      "min": 50,
+      "kind": "all",
+      "rule": "完成专业核心课所有课程。",
+      "courses": [
+        {
+          "name": "公共组织与管理",
+          "credits": 2
+        },
+        {
+          "name": "公共行政学说史",
+          "credits": 3
+        },
+        {
+          "name": "公共部门人力资源管理",
+          "credits": 2
+        },
+        {
+          "name": "当代中国政府制度与体系",
+          "credits": 2
+        },
+        {
+          "name": "地方政府管理",
+          "credits": 2
+        },
+        {
+          "name": "非营利组织管理",
+          "credits": 2
+        },
+        {
+          "name": "领导学",
+          "credits": 2
+        },
+        {
+          "name": "行政伦理学",
+          "credits": 2
+        },
+        {
+          "name": "应急管理与危机公关",
+          "credits": 2
+        },
+        {
+          "name": "数据分析与规范论文写作",
+          "credits": 2
+        },
+        {
+          "name": "马克思主义新闻观与当代中国新闻事业",
+          "credits": 2
+        },
+        {
+          "name": "基础写作",
+          "credits": 2
+        },
+        {
+          "name": "影像技术",
+          "credits": 2
+        },
+        {
+          "name": "中外新闻传播史",
+          "credits": 3
+        },
+        {
+          "name": "数字传播技术应用",
+          "credits": 2
+        },
+        {
+          "name": "传播研究方法与论文写作",
+          "credits": 2
+        },
+        {
+          "name": "新闻传播伦理与法规",
+          "credits": 2
+        },
+        {
+          "name": "传媒经营与管理",
+          "credits": 2
+        },
+        {
+          "name": "全媒体传播实验I",
+          "credits": 1
+        },
+        {
+          "name": "全媒体传播实验II",
+          "credits": 1
+        },
+        {
+          "name": "战略传播",
+          "credits": 2
+        },
+        {
+          "name": "公共传播",
+          "credits": 2
+        },
+        {
+          "name": "策略性传播策划",
+          "credits": 2
+        },
+        {
+          "name": "网络信息整合",
+          "credits": 2
+        },
+        {
+          "name": "移动传播",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "personal",
+      "group": "major",
+      "name": "个性化选修课",
+      "min": 16,
+      "kind": "free",
+      "rule": "公共管理类 / 新闻传播学类任选 14 学分；全英文专业课程 2 学分。本研衔接课程不计入总学分。",
+      "courses": []
+    },
+    {
+      "id": "training",
+      "group": "innovation",
+      "name": "研究训练",
+      "min": 2,
+      "kind": "free",
+      "rule": "参加大学生创新实验计划等，或完成调研报告。",
+      "courses": [
+        {
+          "name": "研究训练",
+          "credits": 2
+        }
+      ]
+    },
+    {
+      "id": "internship",
+      "group": "innovation",
+      "name": "专业实习",
+      "min": 4,
+      "kind": "free",
+      "rule": "暑期专业实践 1 学分 + 专业大实习 3 学分。",
+      "courses": [
+        {
+          "name": "专业实习",
+          "credits": 4
+        }
+      ]
+    },
+    {
+      "id": "thesis",
+      "group": "innovation",
+      "name": "毕业论文（设计）",
+      "min": 4,
+      "kind": "free",
+      "rule": "第四学年撰写毕业论文。",
+      "courses": [
+        {
+          "name": "毕业论文（设计）",
+          "credits": 4
+        }
+      ]
+    },
+    {
+      "id": "public-elective",
+      "group": "quality",
+      "name": "公共选修课",
+      "min": 2,
+      "kind": "free",
+      "rule": "选修 2 学分课程。",
+      "courses": []
+    },
+    {
+      "id": "labor",
+      "group": "quality",
+      "name": "劳动教育",
+      "min": 1,
+      "kind": "free",
+      "rule": "必修。",
+      "courses": [
+        {
+          "name": "劳动教育",
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "group": "quality",
+      "name": "军事课",
+      "min": 4,
+      "kind": "all",
+      "rule": "军事理论 2 学分 + 军事技能 2 学分。",
+      "courses": [
+        {
+          "name": "军事理论",
+          "credits": 2
+        },
+        {
+          "name": "军事技能",
+          "credits": 2
+        },
+        {
+          "name": "军训",
+          "credits": 2,
+          "req": false
+        }
+      ]
+    },
+    {
+      "id": "career",
+      "group": "quality",
+      "name": "职业生涯规划",
+      "min": 1,
+      "kind": "free",
+      "rule": "必修。",
+      "courses": [
+        {
+          "name": "职业生涯规划",
+          "credits": 1
+        }
+      ]
+    },
+    {
+      "id": "volunteer",
+      "group": "quality",
+      "name": "志愿服务",
+      "min": 2,
+      "kind": "free",
+      "rule": "参与不少于 8 项社会实践与社会服务，志愿服务类不少于 1 项。",
+      "courses": []
+    }
+  ],
+  "electivePool": [
+    {
+      "name": "公共行政的宪法基础",
+      "credits": 2
+    },
+    {
+      "name": "治平之道：传统中国的公共管理",
+      "credits": 2
+    },
+    {
+      "name": "公共财政学",
+      "credits": 2
+    },
+    {
+      "name": "公共政策分析",
+      "credits": 2
+    },
+    {
+      "name": "人力资源管理",
+      "credits": 2
+    },
+    {
+      "name": "社会保障理论与前沿问题",
+      "credits": 2
+    },
+    {
+      "name": "社区管理",
+      "credits": 2
+    },
+    {
+      "name": "热点公共事件分析",
+      "credits": 1
+    },
+    {
+      "name": "中国基层治理（E）",
+      "credits": 2
+    },
+    {
+      "name": "人工智能与Python程序设计",
+      "credits": 4
+    },
+    {
+      "name": "大数据公共管理",
+      "credits": 2
+    },
+    {
+      "name": "数据挖掘与知识发现",
+      "credits": 2
+    },
+    {
+      "name": "大数据行政管理前沿",
+      "credits": 2
+    },
+    {
+      "name": "公共管理案例分析",
+      "credits": 2
+    },
+    {
+      "name": "演讲、沟通与谈判",
+      "credits": 2
+    },
+    {
+      "name": "公文写作A",
+      "credits": 3
+    },
+    {
+      "name": "政府公共关系与应急新闻管理",
+      "credits": 2
+    },
+    {
+      "name": "灾害教育与应灾能力",
+      "credits": 2
+    },
+    {
+      "name": "城市发展史",
+      "credits": 2
+    },
+    {
+      "name": "城市管理学",
+      "credits": 2
+    },
+    {
+      "name": "城市社会学",
+      "credits": 2
+    },
+    {
+      "name": "城市更新与旧城保护",
+      "credits": 2
+    },
+    {
+      "name": "编程语言基础",
+      "credits": 2
+    },
+    {
+      "name": "新媒体运营",
+      "credits": 2
+    },
+    {
+      "name": "舆论调查原理与方法",
+      "credits": 2
+    },
+    {
+      "name": "网络内容生产",
+      "credits": 2
+    },
+    {
+      "name": "传播与社会",
+      "credits": 2
+    },
+    {
+      "name": "文化产业概论",
+      "credits": 2
+    },
+    {
+      "name": "经典新闻作品案例解析",
+      "credits": 2
+    },
+    {
+      "name": "杂志编辑",
+      "credits": 2
+    },
+    {
+      "name": "数据新闻",
+      "credits": 2
+    },
+    {
+      "name": "深度报道",
+      "credits": 2
+    },
+    {
+      "name": "新闻可视化原理与应用",
+      "credits": 2
+    },
+    {
+      "name": "新闻传播技术",
+      "credits": 2
+    },
+    {
+      "name": "视听传播原理",
+      "credits": 2
+    },
+    {
+      "name": "融媒体视听表达",
+      "credits": 2
+    },
+    {
+      "name": "视听节目创意",
+      "credits": 2
+    },
+    {
+      "name": "摄影技术",
+      "credits": 2
+    },
+    {
+      "name": "摄影造型技巧",
+      "credits": 2
+    },
+    {
+      "name": "摄影采访与图片编辑",
+      "credits": 2
+    },
+    {
+      "name": "新闻摄影理论",
+      "credits": 2
+    },
+    {
+      "name": "整合营销传播",
+      "credits": 2
+    },
+    {
+      "name": "品牌管理",
+      "credits": 2
+    },
+    {
+      "name": "消费者行为",
+      "credits": 2
+    },
+    {
+      "name": "广告主研究",
+      "credits": 2
+    },
+    {
+      "name": "数字出版",
+      "credits": 2
+    },
+    {
+      "name": "编辑出版学概论",
+      "credits": 2
+    },
+    {
+      "name": "跨文化传播",
+      "credits": 2
+    },
+    {
+      "name": "新媒体设计与创意（E）",
+      "credits": 2
+    },
+    {
+      "name": "社交数据分析（E）",
+      "credits": 2
+    },
+    {
+      "name": "融媒报道出镜主持（E）",
+      "credits": 2
+    },
+    {
+      "name": "国际公共关系管理（E）",
+      "credits": 2
+    },
+    {
+      "name": "智慧城市",
+      "credits": 2
+    },
+    {
+      "name": "人工智能伦理与安全",
+      "credits": 2
+    },
+    {
+      "name": "人际传播（英）",
+      "credits": 2
+    }
+  ]
+}
