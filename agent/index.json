@@ -1,0 +1,346 @@
+{
+  "site": "国新学伴",
+  "description": "中国人民大学新闻学院国际新闻与传播专业的学习资料站：培养方案、课程资料、保研经验与 Agent 接入。",
+  "school": "中国人民大学新闻学院",
+  "major": "国际新闻与传播",
+  "url": "https://guoxin.wxr535.cn",
+  "updated": "2026-11-06",
+  "usage": "先读 index.json，再按需读取页面；回答必须附页面链接，不得编造。",
+  "pages": [
+    {
+      "title": "培养方案总览",
+      "description": "国新系 2023–2026 级培养方案索引、使用说明与版本说明。",
+      "type": "program-index",
+      "grade": "",
+      "tags": [
+        "培养方案",
+        "国新系"
+      ],
+      "updated": "2026-11-06",
+      "url": "/programs/",
+      "absolute_url": "https://guoxin.wxr535.cn/programs/"
+    },
+    {
+      "title": "2023 级国际新闻与传播培养方案",
+      "description": "2023 级国新系本科培养方案：总学分、模块结构、专业核心课与官方原文。",
+      "type": "program",
+      "grade": 2023,
+      "tags": [
+        "培养方案",
+        "国新系",
+        "2023级"
+      ],
+      "updated": "2026-11-07",
+      "url": "/programs/2023",
+      "absolute_url": "https://guoxin.wxr535.cn/programs/2023"
+    },
+    {
+      "title": "2024 级国际新闻与传播培养方案",
+      "description": "2024 级国新系本科培养方案：总学分、模块结构、专业核心课与官方原文。",
+      "type": "program",
+      "grade": 2024,
+      "tags": [
+        "培养方案",
+        "国新系",
+        "2024级"
+      ],
+      "updated": "2026-11-07",
+      "url": "/programs/2024",
+      "absolute_url": "https://guoxin.wxr535.cn/programs/2024"
+    },
+    {
+      "title": "2025 级国际新闻与传播培养方案",
+      "description": "2025 级国新系本科培养方案：总学分、模块结构、专业核心课与官方原文。",
+      "type": "program",
+      "grade": 2025,
+      "tags": [
+        "培养方案",
+        "国新系",
+        "2025级"
+      ],
+      "updated": "2026-11-07",
+      "url": "/programs/2025",
+      "absolute_url": "https://guoxin.wxr535.cn/programs/2025"
+    },
+    {
+      "title": "2026 级国际新闻与传播培养方案",
+      "description": "2026 级国新系本科培养方案：总学分、模块结构、专业核心课与官方原文。",
+      "type": "program",
+      "grade": 2026,
+      "tags": [
+        "培养方案",
+        "国新系",
+        "2026级"
+      ],
+      "updated": "2026-11-07",
+      "url": "/programs/2026",
+      "absolute_url": "https://guoxin.wxr535.cn/programs/2026"
+    },
+    {
+      "title": "国新系课程资料",
+      "description": "国新系课程资料索引：新闻学概论、英语新闻评论，以及培养方案课程地图。",
+      "type": "course-index",
+      "grade": "",
+      "tags": [
+        "课程资料",
+        "国新系"
+      ],
+      "updated": "2026-11-07",
+      "url": "/courses/",
+      "absolute_url": "https://guoxin.wxr535.cn/courses/"
+    },
+    {
+      "title": "保研资料总览",
+      "description": "国新系推免资料：时间线、四条路径经验、2024–2026 真题、专题模板与知识框架。",
+      "type": "baoyan-index",
+      "grade": "",
+      "tags": [
+        "保研",
+        "推免",
+        "国新系"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/"
+    },
+    {
+      "title": "保研时间线",
+      "description": "国新系推免从低年级到大四的时间线与关键节点。",
+      "type": "baoyan-timeline",
+      "grade": "",
+      "tags": [
+        "保研",
+        "时间线",
+        "推免"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/timeline",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/timeline"
+    },
+    {
+      "title": "推免要点",
+      "description": "国新系推免资格、综合评价、六级门槛与材料清单的结构化整理。",
+      "type": "baoyan-rules",
+      "grade": "",
+      "tags": [
+        "保研",
+        "推免",
+        "资格"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/rules",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/rules"
+    },
+    {
+      "title": "保研经验分享",
+      "description": "国新系推免四条路径：国新、专硕、学硕、外保的经验与共同节点。",
+      "type": "baoyan-experiences",
+      "grade": "",
+      "tags": [
+        "保研",
+        "经验",
+        "推免"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/experiences",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/experiences"
+    },
+    {
+      "title": "笔试与面试",
+      "description": "RUC 新传保研 2024–2026 笔试/面试真题回忆与准备方法。",
+      "type": "baoyan-interview",
+      "grade": "",
+      "tags": [
+        "保研",
+        "面试",
+        "笔试",
+        "真题"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/interview",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/interview"
+    },
+    {
+      "title": "保研常见问题",
+      "description": "国新系推免常见问题：资格、排名、夏令营、预推免、材料、心态。",
+      "type": "baoyan-faq",
+      "grade": "",
+      "tags": [
+        "保研",
+        "FAQ",
+        "推免"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/faq",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/faq"
+    },
+    {
+      "title": "Agent 接入总览",
+      "description": "把国新学伴接进个人 Agent 的三种方式：复制提示词、上传内容包、安装 Skill。",
+      "type": "agent-index",
+      "grade": "",
+      "tags": [
+        "Agent",
+        "接入",
+        "定制"
+      ],
+      "updated": "2026-11-06",
+      "url": "/agent/",
+      "absolute_url": "https://guoxin.wxr535.cn/agent/"
+    },
+    {
+      "title": "3 分钟接入",
+      "description": "把国新学伴接进个人 Agent 的最短步骤。",
+      "type": "agent-quickstart",
+      "grade": "",
+      "tags": [
+        "Agent",
+        "快速开始"
+      ],
+      "updated": "2026-11-06",
+      "url": "/agent/quickstart",
+      "absolute_url": "https://guoxin.wxr535.cn/agent/quickstart"
+    },
+    {
+      "title": "复制提示词",
+      "description": "国新学伴 Agent 提示词：联网版、知识库版、单页版。",
+      "type": "agent-prompt",
+      "grade": "",
+      "tags": [
+        "Agent",
+        "提示词"
+      ],
+      "updated": "2026-11-06",
+      "url": "/agent/prompt",
+      "absolute_url": "https://guoxin.wxr535.cn/agent/prompt"
+    },
+    {
+      "title": "Skill 包",
+      "description": "国新学伴 Skill 包的结构、安装方式与更新规则。",
+      "type": "agent-skill",
+      "grade": "",
+      "tags": [
+        "Agent",
+        "Skill",
+        "安装"
+      ],
+      "updated": "2026-11-06",
+      "url": "/agent/skill",
+      "absolute_url": "https://guoxin.wxr535.cn/agent/skill"
+    },
+    {
+      "title": "Agent 接入常见问题",
+      "description": "国新学伴 Agent 接入的常见问题：打不开、不引用、编造、隐私。",
+      "type": "agent-faq",
+      "grade": "",
+      "tags": [
+        "Agent",
+        "FAQ"
+      ],
+      "updated": "2026-11-06",
+      "url": "/agent/faq",
+      "absolute_url": "https://guoxin.wxr535.cn/agent/faq"
+    },
+    {
+      "title": "index",
+      "description": "",
+      "type": "page",
+      "grade": "",
+      "tags": [],
+      "updated": "2026-11-06",
+      "url": "/",
+      "absolute_url": "https://guoxin.wxr535.cn/"
+    },
+    {
+      "title": "关于本站",
+      "description": "国新学伴的来源、更新、隐私、版权与联系方式。",
+      "type": "about",
+      "grade": "",
+      "tags": [
+        "关于",
+        "隐私",
+        "版权"
+      ],
+      "updated": "2026-11-07",
+      "url": "/about",
+      "absolute_url": "https://guoxin.wxr535.cn/about"
+    },
+    {
+      "title": "保研资料库",
+      "description": "国新系保研资料：RUC 历年真题、专题答题模板、传播学知识框架、清华新传资料。",
+      "type": "baoyan-materials",
+      "grade": "",
+      "tags": [
+        "保研",
+        "资料库",
+        "真题",
+        "专题"
+      ],
+      "updated": "2026-11-07",
+      "url": "/baoyan/materials",
+      "absolute_url": "https://guoxin.wxr535.cn/baoyan/materials"
+    },
+    {
+      "title": "英语新闻评论 · 课程资料",
+      "description": "英语新闻评论课程阅读、写作教程、范文与 OP Readings 材料。",
+      "type": "course",
+      "grade": "",
+      "tags": [
+        "课程资料",
+        "英语新闻评论",
+        "国新系"
+      ],
+      "updated": "2026-11-07",
+      "url": "/courses/english-commentary",
+      "absolute_url": "https://guoxin.wxr535.cn/courses/english-commentary"
+    },
+    {
+      "title": "新闻学概论 · 课程资料",
+      "description": "新闻学概论课程阅读清单：新闻价值、新闻真实、客观性、平台与出版商。",
+      "type": "course",
+      "grade": "",
+      "tags": [
+        "课程资料",
+        "新闻学概论",
+        "国新系"
+      ],
+      "updated": "2026-11-07",
+      "url": "/courses/news-intro",
+      "absolute_url": "https://guoxin.wxr535.cn/courses/news-intro"
+    },
+    {
+      "title": "课程外必修学分",
+      "description": "人大本科生课程外 8 类必修学分：思政实践、形势与政策、劳动、志愿、讲座、职业、研究训练、心理。",
+      "type": "program-noncourse",
+      "grade": "",
+      "tags": [
+        "培养方案",
+        "学分",
+        "非课程"
+      ],
+      "updated": "2026-11-07",
+      "url": "/programs/non-course",
+      "absolute_url": "https://guoxin.wxr535.cn/programs/non-course"
+    },
+    {
+      "title": "上传资料",
+      "description": "",
+      "type": "page",
+      "grade": "",
+      "tags": [],
+      "updated": "2026-11-06",
+      "url": "/upload",
+      "absolute_url": "https://guoxin.wxr535.cn/upload"
+    },
+    {
+      "title": "师姐/兄说",
+      "description": "从已有分享材料中整理学习与升学经验，也为新的经验分享提供提纲。",
+      "type": "page",
+      "grade": "",
+      "tags": [],
+      "updated": "2026-11-06",
+      "url": "/voices",
+      "absolute_url": "https://guoxin.wxr535.cn/voices"
+    }
+  ]
+}
